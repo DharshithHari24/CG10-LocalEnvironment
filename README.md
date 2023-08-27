@@ -1,1 +1,1 @@
-# CG10-LocalEnvironment
+# C10-project-template
